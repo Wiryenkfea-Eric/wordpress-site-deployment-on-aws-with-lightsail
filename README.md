@@ -84,7 +84,7 @@ See `scripts/notes-lightsail-cli.md` for tips to perform parts of the workflow u
 ##  Presenting this in a Workshop
 - Start with the 2-minute primer: **AWS → Lightsail → WordPress → DuckDNS** (see `assets/cheatsheet.md`).
 - Then follow the steps **live**. Keep one instance pre-provisioned as a fallback.
-- End with HTTPS + a quick theme install to celebrate the win 🎉
+- End with HTTPS + a quick theme install to celebrate the win 
 
 ---
 

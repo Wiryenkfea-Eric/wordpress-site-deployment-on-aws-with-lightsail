@@ -1,8 +1,8 @@
-# 🛠️ Hands-On Workshop: Deploying WordPress on AWS Lightsail with DuckDNS
+#  Hands-On Workshop: Deploying WordPress on AWS Lightsail with DuckDNS
 
 Welcome to the **SolaviseTech WordPress on AWS Lightsail Workshop**! This comprehensive hands-on workshop will guide you through deploying a fully functional WordPress website on AWS Lightsail with a custom domain using DuckDNS.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Workshop Overview](#-workshop-overview)
 2. [Prerequisites](#-prerequisites)
@@ -18,7 +18,7 @@ Welcome to the **SolaviseTech WordPress on AWS Lightsail Workshop**! This compre
 12. [Resource Cleanup](#-resource-cleanup)
 13. [Additional Resources](#-additional-resources)
 
-## 🎯 Workshop Overview
+##  Workshop Overview
 
 In this workshop, you'll deploy a production-ready WordPress site on AWS Lightsail with:
 - **WordPress** running on a managed Lightsail instance
@@ -29,7 +29,7 @@ In this workshop, you'll deploy a production-ready WordPress site on AWS Lightsa
 **Estimated Duration:** 2-3 hours  
 **Difficulty Level:** Beginner to Intermediate
 
-## ✅ Prerequisites
+##  Prerequisites
 
 Before starting this workshop, ensure you have:
 
@@ -51,13 +51,13 @@ Before starting this workshop, ensure you have:
 ## 🎓 What You'll Learn
 
 By the end of this workshop, you will:
-- ✅ Understand AWS Lightsail and its benefits for small websites
-- ✅ Deploy and configure WordPress on cloud infrastructure
-- ✅ Set up a custom domain using DuckDNS
-- ✅ Configure SSL certificates for secure connections
-- ✅ Implement basic security measures for WordPress
-- ✅ Optimize WordPress performance
-- ✅ Troubleshoot common deployment issues
+-  Understand AWS Lightsail and its benefits for small websites
+-  Deploy and configure WordPress on cloud infrastructure
+-  Set up a custom domain using DuckDNS
+-  Configure SSL certificates for secure connections
+-  Implement basic security measures for WordPress
+-  Optimize WordPress performance
+-  Troubleshoot common deployment issues
 
 ---
 
@@ -434,11 +434,11 @@ When you're done with the workshop and want to avoid ongoing charges:
 2. **Delete Your Domain** (optional)
 3. **Keep Your Account** for future use
 
-⚠️ **Warning:** Deleting your instance will permanently remove all data. Make sure to backup any important content first!
+ **Warning:** Deleting your instance will permanently remove all data. Make sure to backup any important content first!
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 ### Documentation
 - [AWS Lightsail Documentation](https://lightsail.aws.amazon.com/ls/docs/)
@@ -469,21 +469,19 @@ When you're done with the workshop and want to avoid ongoing charges:
 
 ---
 
-## 🎉 Congratulations!
+##  Congratulations!
 
 You've successfully completed the WordPress on AWS Lightsail with DuckDNS workshop! You now have:
 
-- ✅ A fully functional WordPress website
-- ✅ Custom domain with HTTPS
-- ✅ Basic security hardening
-- ✅ Performance optimizations
-- ✅ Understanding of cloud hosting concepts
-
-**Share Your Success!** Tweet about your achievement and tag `@SolaviseTech` - we'd love to see what you've built!
+-  A fully functional WordPress website
+-  Custom domain with HTTPS
+-  Basic security hardening
+-  Performance optimizations
+-  Understanding of cloud hosting concepts
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Found an issue or have suggestions for improvement? 
 
@@ -495,7 +493,7 @@ We welcome contributions to make this workshop even better!
 
 ---
 
-## 📄 License
+##  License
 
 This workshop content is available under the MIT License. See [LICENSE](LICENSE) for details.
 

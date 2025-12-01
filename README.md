@@ -6,7 +6,7 @@ A concise, hands-on guide to deploy a **WordPress** site on **AWS Lightsail** an
 
 ---
 
-## 📦 What’s in this repo
+##  What’s in this repo
 - `README.md` — step-by-step workshop guide
 - `scripts/get-wp-admin-password.sh` — fetch Bitnami WP admin password
 - `scripts/setup-https.sh` — helper to run Let's Encrypt via Bitnami `bncert-tool`
@@ -16,7 +16,7 @@ A concise, hands-on guide to deploy a **WordPress** site on **AWS Lightsail** an
 
 ---
 
-## ✅ Prerequisites (for the workshop lead/participants)
+##  Prerequisites (for the workshop lead/participants)
 - AWS account with access to **Lightsail**
 - A GitHub/Google account to sign into **DuckDNS**
 - (Optional) SSH familiarity (we also use **browser-based SSH** in Lightsail)
@@ -24,7 +24,7 @@ A concise, hands-on guide to deploy a **WordPress** site on **AWS Lightsail** an
 
 ---
 
-## 🛠️ Steps (Console-first)
+##  Steps (Console-first)
 ### 1) Create a Lightsail Instance
 1. Sign in to AWS Console → search **Lightsail** → **Create instance**
 2. Choose **Region** (nearest), **Platform**: Linux/Unix, **Blueprint**: **WordPress**
@@ -68,7 +68,7 @@ A concise, hands-on guide to deploy a **WordPress** site on **AWS Lightsail** an
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 - **DuckDNS not resolving?** Wait ~1–5 minutes or re-check that you used the **static IP**.
 - **SSL/HTTPS fails?** Ensure ports 80/443 are open in Lightsail **Networking** and the domain resolves to your IP.
 - **Admin password unknown?** Use `sudo cat /home/bitnami/bitnami_application_password` again via SSH.
@@ -76,17 +76,17 @@ A concise, hands-on guide to deploy a **WordPress** site on **AWS Lightsail** an
 
 ---
 
-## 🧪 Bonus: CLI Notes (Optional)
+##  Bonus: CLI Notes (Optional)
 See `scripts/notes-lightsail-cli.md` for tips to perform parts of the workflow using the AWS CLI (e.g., listing instances, static IPs).
 
 ---
 
-## 🚀 Presenting this in a Workshop
+##  Presenting this in a Workshop
 - Start with the 2-minute primer: **AWS → Lightsail → WordPress → DuckDNS** (see `assets/cheatsheet.md`).
 - Then follow the steps **live**. Keep one instance pre-provisioned as a fallback.
 - End with HTTPS + a quick theme install to celebrate the win 🎉
 
 ---
 
-## 📝 License
+##  License
 MIT — see `LICENSE`.

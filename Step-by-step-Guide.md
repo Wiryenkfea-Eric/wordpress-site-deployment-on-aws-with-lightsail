@@ -48,7 +48,7 @@ Before starting this workshop, ensure you have:
 - **DuckDNS:** Free
 - **Let's Encrypt SSL:** Free
 
-## 🎓 What You'll Learn
+##  What You'll Learn
 
 By the end of this workshop, you will:
 -  Understand AWS Lightsail and its benefits for small websites
